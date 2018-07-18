@@ -1,4 +1,4 @@
-# Ambiguous Terms
+# When people say "Dat", what do they mean?
 
 You can skip this section if you already are familiar with the project.
 

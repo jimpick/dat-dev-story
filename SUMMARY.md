@@ -1,7 +1,8 @@
 # Summary
 
-* [Introduction](README.md)
-  * [When people say "Dat"...](introduction/ambiguous.md)
+* [Dat Dev Story](README.md)
+  * [When people say "Dat"...](introduction/dat.md)
+  * [Many little modules](introduction/little-modules.md)
 
 * [Log-structured data with hypercore](hypercore/README.md)
 
