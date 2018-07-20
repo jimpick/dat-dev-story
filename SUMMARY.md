@@ -4,22 +4,28 @@
   * [When people say "Dat"...](introduction/dat.md)
   * [Many little modules](introduction/little-modules.md)
 
-* [Log-structured data with hypercore](hypercore/README.md)
+* [hypercore: Log-structured data](hypercore/intro.md)
+  * [Superpowers](hypercore/superpowers.md)
+  * [Basic usage](hypercore/basic-usage.md)
+  * [Challenge 1](hypercore/challenge-1.md)
+  * [Challenge 2](hypercore/challenge-2.md)
+  * [More info](hypercore/more-info.md)
 
-* [Sharing data over the internet with hyperdiscovery](hyperdiscovery/README.md)
+* [hyperdiscovery: Sharing data over the network](hyperdiscovery/README.md)
 
-* [Retrieving data and manipulating it in-memory with random-access-memory](random-access-memory/README.md)
+* [Random-access-memory: Retrieving data and manipulating it in-memory](random-access-memory/README.md)
 
-* [Creating file archives with hyperdrive](hyperdrive/README.md)
+* [hyperdrive: Creating file archives](hyperdrive/intro.md)
+  * [Exercise](hyperdrive/exercise.md)
 
-* [Working with in-place archives with dat-node](dat-node/README.md)
+* [dat-node: Working with in-place archives](dat-node/README.md)
 
-* [Publishing to the web with Beaker Browser](beaker-browser/README.md)
+* [Beaker: Publishing to the web](beaker-browser/README.md)
 
-* [Building a collaborative database with hyperdb](hyperdb/README.md)
+* [hyperdb: Collaborate using a database](hyperdb/README.md)
 
-* [Building a real-time distributed data processing pipeline with hyperdrive multiwriter](hyperdrive-multiwriter/README.md)
+* [hyperdrive multiwriter: Building a real-time distributed data processing pipeline](hyperdrive-multiwriter/README.md)
 
-* [Building a chat app with kappa-core](kappa-core/README.md)
+* [kappa-core: Building a chat app](kappa-core/README.md)
 
-* [Building a collaborative markdown editor with hyperdb and automerge](hyperdb-automerge/README.md)
+* [automerge and hyperdb: Building a collaborative markdown editor](hyperdb-automerge/README.md)
