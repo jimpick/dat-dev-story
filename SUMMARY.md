@@ -29,3 +29,7 @@
 * [kappa-core: Building a chat app](kappa-core/README.md)
 
 * [automerge and hyperdb: Building a collaborative markdown editor](hyperdb-automerge/README.md)
+
+* [Extra Guides](extra-guides/README.md)
+  * [Node.js](extra-guides/nodejs.md)
+  * [Dependency breakdown of an example](extra-guides/breakdown.md)
