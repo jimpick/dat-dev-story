@@ -139,6 +139,10 @@ Secondary dependencies:
 * **siphash24**: [mafintosh/siphash24](https://github.com/mafintosh/siphash24)
 * **xsalsa20**: [mafintosh/xsalsa20](https://github.com/mafintosh/xsalsa20)
 
+Related videos:
+
+* [Hand-crafting WebAssembly - Emil Bay - JSConf EU 2018](https://www.youtube.com/watch?v=CfdmzVos1Fs)
+
 ## Useful Data Structures
 
 * **array-lru**: [mafintosh/array-lru](https://github.com/mafintosh/array-lru) (used by hypercore and append-tree (part of hyperdrive))

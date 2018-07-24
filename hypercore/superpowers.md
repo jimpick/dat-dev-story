@@ -1,6 +1,6 @@
 # Hypercore superpowers
 
-Hypercore is really simple. It only supports appending data.
+Hypercore is very simple. It only supports appending data.
 
 But hypercore has a few magic features:
 

@@ -1,0 +1,19 @@
+{
+  "name": "animations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "diffy": "^2.0.0",
+    "hypercore": "^6.18.1",
+    "random-access-memory": "^3.0.0",
+    "strip-ansi": "^4.0.0"
+  }
+}
