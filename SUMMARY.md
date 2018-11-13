@@ -7,6 +7,8 @@
 * [hypercore: Log-structured data](hypercore/intro.md)
   * [Superpowers](hypercore/superpowers.md)
   * [Basic usage](hypercore/basic-usage.md)
+  * [Waiting until ready](hypercore/waiting-until-ready.md)
+  * [Working with keys](hypercore/working-with-keys.md)
   * [Challenge 1](hypercore/challenge-1.md)
   * [Challenge 2](hypercore/challenge-2.md)
   * [More info](hypercore/more-info.md)
